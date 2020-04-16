@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Q2P
+Comment=Q2P 
+Exec=q2p
+#Icon=/usr/local/share/quake2/q2p.png
+Icon=/usr/local/games/quake2/q2p.png
+Type=Application
